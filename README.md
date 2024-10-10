@@ -1,1 +1,2 @@
 # MusicDB
+Adding stuff soon.
